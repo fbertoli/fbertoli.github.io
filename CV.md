@@ -49,6 +49,11 @@ Thesis:	Trasformazioni Cremoniane Tra Piani Proiettivi (in Italian)
  	
 #<font size="5"><b><ins>Patent </ins></b></font> 											(Pending)	Transporting goods using a fleet of vehicles.   (with P. Kilby and T. Urli. Owned by Data61 – CSIRO)#<font size="5"><b><ins>Schools and Workshops Attended</ins></b></font>                                                                           * <font color ="rblueed">Nov 2015 - Workshop on Nonlinear Control.    </font>  
 Sydney. Australia* <font color ="blue">Feb 2016 -	NICTA Optimization Summer School. </font>  
-Kioloa. Australia#<font size="5"><b><ins>Grants and Scholarships</ins></b></font>                                                                             2014 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;ANU and NICTA PhD International Scholarship  2014 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;ANU and NICTA PhD Supplementary Scholarship  2012 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;6-months scholarship for student mobility   2006 - 2009 &emsp; University of Milan refund for most valuable students
-#<font size="5"><b><ins>Work Experience</ins></b></font>2017 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<font color ="blue">Data Scientist Intern</font> <br />
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Hivery  &emsp;-&emsp;  Sydney, Australia
+Kioloa. Australia#<font size="5"><b><ins>Grants and Scholarships</ins></b></font>                                                                             
+* 2014 - ANU and NICTA PhD International Scholarship (4 Years)
+* 2014 - ANU and NICTA PhD Supplementary Scholarship (4 Years)
+* 2012 - Scholarship for student mobility (6 months)
+* 2006 - University of Milan refund for most valuable student (3 years)
+
+#<font size="5"><b><ins>Work Experience</ins></b></font>
+* 2017 - <font color ="blue">Data Scientist Intern</font> - Sydney, Australia<br/> 
