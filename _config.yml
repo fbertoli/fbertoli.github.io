@@ -2,8 +2,9 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Gems
-gems: [jekyll-paginate]
+# Plugings
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Exclude 
 exclude: [./README.md, _posts/2012-02-07-example-content.md,_posts/2012-02-06-whats-jekyll.md]
